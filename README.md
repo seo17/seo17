@@ -31,7 +31,6 @@ Check out my [coding portfolio!](https://samuel-owolabi.vercel.app/)
 Languages:HTML, CSS, Javascript, Typescript, Python.  
 Databases: PostgreSQL, MongoDB, Firebase, Supabase.
 Developer Tools: Figma, Git, GitHub, PostMan, Linux, Vercel, AWS Services (Learning)*
-
 Libraries/Frameworks: JQuery, React, Redux, Zustand, NextJS, NodeJs, Express, Prisma, Bootstrap, TailwindCSS.
 
 
