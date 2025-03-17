@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋 I'm Samuel E. Owolabi</h1>
 
 # About Me:
-I am a Full Stack Developer, passionate about exploring the realms of coding, A.I, and building robust applications.
-Outside of work, I'm interested in reading my bible. I also play video game and watch anime.
+I am a Full Stack Developer, passionate about exploring the realms of coding, A.I, and building app.
 
 ## What I'm Up To
 - 💻 Building full stack applications with A.I capabilities.
