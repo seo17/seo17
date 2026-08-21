@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I am a Full Stack Developer, passionate about exploring the realms of coding, A.I, and building app.
 
 ## What I'm Up To
-- 💻 Building full stack applications with A.I capabilities.
+- 💻 Building solutions.
 
 Check out my [coding portfolio!](https://samuel-owolabi.vercel.app/)
 
